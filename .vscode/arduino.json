@@ -1,0 +1,7 @@
+{
+    "sketch": "código__index.ino",
+    "configuration": "PSRAM=disabled,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none",
+    "board": "espressif:esp32:esp32s2usb",
+    "port": "COM3",
+    "programmer": "esptool"
+}
